@@ -3,7 +3,7 @@
 class Node
 attr_reader :score,
             :title
-            
+
 attr_accessor :node_left,
               :node_right,
               :parent

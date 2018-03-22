@@ -82,44 +82,4 @@ class DateNightTest < MiniTest::Test
   end
 
 
-  # def test_include_searches_tree
-  #
-  # end
-  #
-  # def test_depth_of_tree
-  #
-  # end
-  #
-  # def test_max_returns_movie_with_highest_score
-  #
-  # end
-  #
-  # def test_min_returns_movie_with_lowest_score
-  #
-  # end
-  #
-  # def test_sort_returns_array_of_movies_in_ascending_order
-  #
-  # end
-  #
-  # def test_load_returns_number_of_movies_in_tree
-  #
-  # end
-  #
-  # def test_health_returns_score_of_the_node
-  #
-  # end
-  #
-  # def test_health_returns_number_of_child_nodes
-  #
-  # end
-  #
-  # def test_health_returns_percentage_of_all_nodes_that_are_its_children
-  #
-  # end
-  #
-  # def test_delete_removes_the_node
-  #
-  # end
-
 end
